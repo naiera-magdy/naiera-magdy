@@ -15,7 +15,7 @@
 
 </div>
 
-# Hi there 👋, I'm [Naiera!](https://github.com/naiera-magdy) 
+# Hi there<img src="https://media.giphy.com/media/dZ9TLMB0HwtofZdpPj/giphy.gif" width="50" draggable="false" >, I'm [Naiera!](https://github.com/naiera-magdy) 
 *You can contact me at:*
 
 <div align="center">
@@ -29,13 +29,16 @@
 <a href="mailto:naieramagdy99@gmail.com">
   <img align="left" alt="my email" width="40px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
 </a>
+<a href="https://www.hackerrank.com/naiera_refaey99?hr_r=1">
+  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
 
 </div>
 
 <br />
 <br />
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+# <img src="https://media.giphy.com/media/VCgBfLwT2WAPbGSYgL/giphy.gif" width="50" draggable="false" > About me
 
 - 🎓 I'm a Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 💡 I'm a hardworking, passionate and driven computer engineer aspiring to leave a great legacy
