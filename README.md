@@ -10,7 +10,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/naiera-magdy)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/naiera-magdy)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/naiera-magdy)](https://badges.pufler.dev)
+<!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/naiera-magdy)](https://badges.pufler.dev) -->
 
 
 </div>
@@ -20,17 +20,17 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/naiera-magdy-3011/"><img align="left" alt="hemdan's LinkdeIN" width="40px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/naiera-magdy-3011/"><img align="left" alt="Naiera's LinkdeIN" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" draggable="false" /></a>
   
 <a href="https://github.com/naiera-magdy">
   <img align="left" alt="github" width="40px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" draggable="false" />
 </a>
 
 <a href="mailto:naieramagdy99@gmail.com">
-  <img align="left" alt="my email" width="40px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" alt="my email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" draggable="false" />
 </a>
 <a href="https://www.hackerrank.com/naiera_refaey99?hr_r=1">
-  <img align="left" alt="hemdan's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+  <img align="left" alt="Naiera's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
 </a>
 
 </div>
