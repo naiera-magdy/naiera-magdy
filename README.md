@@ -6,16 +6,16 @@
   
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 [![Years Badge](https://badges.pufler.dev/years/naiera-magdy)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/naiera-magdy)](https://badges.pufler.dev)
-<!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/naiera-magdy)](https://badges.pufler.dev) -->
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/naiera-magdy)](https://badges.pufler.dev)
 
 
-</div>
+</div> -->
 
-# Hi there<img src="https://media.giphy.com/media/dZ9TLMB0HwtofZdpPj/giphy.gif" width="50" draggable="false" >, I'm [Naiera!](https://github.com/naiera-magdy) 
+# Hi there<img src="https://media.giphy.com/media/dZ9TLMB0HwtofZdpPj/giphy.gif" width="50" draggable="false" >, It's [Naiera!](https://github.com/naiera-magdy) 
 *You can contact me at:*
 
 <div align="center">
@@ -29,9 +29,9 @@
 <a href="mailto:naieramagdy99@gmail.com">
   <img align="left" alt="my email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" draggable="false" />
 </a>
-<a href="https://www.hackerrank.com/naiera_refaey99?hr_r=1">
+<!-- <a href="https://www.hackerrank.com/naiera_refaey99?hr_r=1">
   <img align="left" alt="Naiera's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-</a>
+</a> -->
 
 </div>
 
@@ -40,7 +40,7 @@
 
 # <img src="https://media.giphy.com/media/VCgBfLwT2WAPbGSYgL/giphy.gif" width="50" draggable="false" > About me
 
-- 🎓 I'm a Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 I'm a Computer Engineer graduated from <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 💡 I'm a hardworking, passionate and driven computer engineer aspiring to leave a great legacy
 
 
