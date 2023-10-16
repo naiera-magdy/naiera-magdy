@@ -15,7 +15,7 @@
 
 </div> -->
 
-# Hi there<img src="https://media.giphy.com/media/dZ9TLMB0HwtofZdpPj/giphy.gif" width="50" draggable="false" >, It's [Naiera!](https://github.com/naiera-magdy) 
+# Hi there👋🏼, It's [Naiera!](https://github.com/naiera-magdy) 
 *You can contact me at:*
 
 <div align="center">
